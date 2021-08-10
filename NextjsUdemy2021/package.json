@@ -1,0 +1,12 @@
+{
+  "name": "nextjs-udemy-2021",
+  "version": "1.0.0",
+  "description": "Projects of Next.js Complete Guide",
+  "main": "index.js",
+  "author": "gitgitWi <gitgitWi@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "01-file-based-routing"
+  ]
+}
