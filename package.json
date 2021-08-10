@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-projects",
+  "version": "1.0.0",
+  "description": "mini projects made for tutorials",
+  "repository": "https://github.com/gitgitWi/tutorials.git",
+  "author": "gitgitWi <gitgitWi@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint-plugin-react": "^7.24.0"
+  }
+}
